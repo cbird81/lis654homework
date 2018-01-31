@@ -40,6 +40,7 @@ while (($speed > 80 ) && (counter <11));
            
 // or more efficiently 
 
+
 for ($c = 1; $count <= 12; ++$c)
 { '<tr>'
 {
