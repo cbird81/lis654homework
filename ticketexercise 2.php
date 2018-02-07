@@ -26,6 +26,9 @@ $counter = 1;
 while (($speed > 80 ) && (counter <11));
    echo "BAD BAD TOO FAST"
    
+   
+   
+   
    # multiplication table!
    
    for ($count =1,; $ count <=; . $ count *  12)
