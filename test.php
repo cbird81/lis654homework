@@ -2,7 +2,7 @@
 
 <html>
 
-<body>.gitignore.file
+<body>.
 
 <?php
 // we'll add some code here!
