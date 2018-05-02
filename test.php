@@ -2,7 +2,7 @@
 
 <html>
 
-<body>
+<body>.
 
 <?php
 // we'll add some code here!
